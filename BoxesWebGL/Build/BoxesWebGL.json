@@ -1,11 +1,9 @@
 {
-"companyName": "DefaultCompany",
-"productName": "test",
+"TOTAL_MEMORY": 268435456,
 "dataUrl": "BoxesWebGL.data.unityweb",
 "asmCodeUrl": "BoxesWebGL.asm.code.unityweb",
 "asmMemoryUrl": "BoxesWebGL.asm.memory.unityweb",
 "asmFrameworkUrl": "BoxesWebGL.asm.framework.unityweb",
-"TOTAL_MEMORY": 268435456,
 "graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
 "splashScreenStyle": "Dark",
