@@ -1,0 +1,50 @@
+body 
+{
+  font-size: 16px;
+    position: relative; 
+    background-color: #fffdcc;
+}
+
+img
+{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  min-height: 50px;
+  max-height: 250px;
+  min-width: 50px;
+  max-width: 250px;
+  padding-top: 20px;
+}
+
+.affix 
+{
+    top:0;
+    width: 100%;
+    z-index: 9999 !important;
+}
+
+.navbar 
+{
+    margin-bottom: 0px;
+}
+
+.affix ~ .container-fluid 
+{
+   position: relative;
+   top: 50px;
+}
+
+.GoogleButton
+{
+  max-width: 120px;
+  margin-top: -20px;
+  margin-bottom: 20px;
+}
+
+#logo {font-family: 'Caveat Brush', cursive;text-align: center;background-color: #ffadc8;color: #634000;height: 400px;padding-top: 150px;}
+#About {font-family: 'Happy Monkey', cursive;text-align:center;padding-top:1%;color: #634000; background-color: white;}
+#ContentBody {font-family: 'Happy Monkey', cursive;width: 75%;}
+#Accumulus {padding-top:1%;color: #634000;}
+#SpaceBitsBlast {text-align:right;padding-top:1%;padding-bottom:5%;color: #634000;}
+#Footer {text-align: center;height:120px;color: white; background-color: #634000;}
