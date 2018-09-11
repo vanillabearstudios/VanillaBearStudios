@@ -1,8 +1,8 @@
 body 
 {
-  font-size: 20px;
-    position: relative; 
-    background-color: #fffdcc;
+  font-size: 25px;
+  position: relative; 
+  background-color: #fffdcc;
 }
 
 img
@@ -42,8 +42,8 @@ img
   margin-bottom: 20px;
 }
 
-#logo {font-family: 'Caveat Brush', cursive;text-align: center;background-color: #ffadc8;color: #634000;height: 400px;padding-top: 150px;}
-#About {font-family: 'Happy Monkey', cursive;text-align:center;padding-top:1%;color: #634000; background-color: white;}
+#logo {font-family: 'Caveat Brush', cursive;text-align: center;background-color: #ffadc8;color: #634000;height: 400px;padding-top: 140px;}
+#About {font-family: 'Happy Monkey', cursive;text-align:center;padding-top:2%;color: #634000; background-color: white;}
 #ContentBody {font-family: 'Happy Monkey', cursive;width: 75%;}
 #Accumulus {padding-top:1%;color: #634000;}
 #SpaceBitsBlast {text-align:right;padding-top:1%;padding-bottom:5%;color: #634000;}
