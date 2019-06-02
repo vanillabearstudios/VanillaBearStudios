@@ -1,21 +1,14 @@
+html
+{
+  height:100%;
+}
+
 body 
 {
   font-size: 18px;
   position: relative; 
   background-color: #fffdcc;
   background-image:url("background.png");
-}
-
-img
-{
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  min-height: 50px;
-  max-height: 250px;
-  min-width: 50px;
-  max-width: 250px;
-  padding-top: 20px;
 }
 
 .affix 
@@ -27,7 +20,7 @@ img
 
 .navbar 
 {
-    margin-bottom: 0px;
+    padding-top: : 0px;
 }
 
 .affix ~ .container-fluid 
@@ -47,7 +40,7 @@ img
        background: url("pink.png");background-size: 1900px 400px;
       }
 #About {font-family: 'Happy Monkey', cursive;text-align:center;padding-top:2%;padding-bottom:2%;color: #634000; background-color: white;}
-#ContentBody {background-image:url("background.png");}
+#ContentBody {height:90%;margin-top:10%;}
 #ContentBodyGames {font-family: 'Happy Monkey', cursive;width: 75%;}
 #Accumulus {padding-top:1%;color: #634000;}
 #SpaceBitsBlast {text-align:right;padding-top:1%;padding-bottom:5%;color: #634000;}
