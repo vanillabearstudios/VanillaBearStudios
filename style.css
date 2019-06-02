@@ -46,7 +46,7 @@ img
        background: url("pink.png");background-size: 1900px 400px;
       }
 #About {font-family: 'Happy Monkey', cursive;text-align:center;padding-top:2%;padding-bottom:2%;color: #634000; background-color: white;}
-#ContentBody {background-image:url("background.png");}
+#ContentBody {background-image:url("background.png");height:100%;}
 #ContentBodyGames {font-family: 'Happy Monkey', cursive;width: 75%;}
 #Accumulus {padding-top:1%;color: #634000;}
 #SpaceBitsBlast {text-align:right;padding-top:1%;padding-bottom:5%;color: #634000;}
