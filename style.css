@@ -45,3 +45,16 @@ body
 #Accumulus {padding-top:1%;color: #634000;}
 #SpaceBitsBlast {text-align:right;padding-top:1%;padding-bottom:5%;color: #634000;}
 #Footer {text-align: center;height:120px;color: white; background-color: #634000;}
+
+div.privacy-body
+{
+	max-width:80%;
+	font-size: 120%;
+	background: rgba(255, 255, 255, 0.65);
+}
+
+h1.privacy-policy-title
+{
+	text-align: center;
+	padding-top: 20px;
+}
