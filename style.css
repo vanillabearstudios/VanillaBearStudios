@@ -51,10 +51,11 @@ div.privacy-body
 	max-width:80%;
 	font-size: 120%;
 	background: rgba(255, 255, 255, 0.65);
+	padding-top: 20px;
+	padding-bottom: 100px;
 }
 
 h1.privacy-policy-title
 {
 	text-align: center;
-	padding-top: 20px;
 }
